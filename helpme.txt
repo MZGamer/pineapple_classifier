@@ -1,0 +1,16 @@
+最終版本:
+
+聲音前處理:preprocess.py
+
+圖片訓練:
+	資料集:imageDataSetV2.py
+	訓練:newTrain.py
+聲音訓練:
+	資料集:dataset.py
+	訓練:image.py
+
+結果:
+	聲音資料集:voiceTestDataSet.py
+	圖片資料集:imageTestDataSet.py
+
+	整合:combine.py
